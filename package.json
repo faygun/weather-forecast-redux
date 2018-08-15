@@ -34,6 +34,7 @@
     "redux-promise": "^0.6.0",
     "redux-thunk": "^2.3.0",
     "save": "^2.3.2",
+    "serve": "^9.6.0",
     "url-parse": "^1.4.3"
   }
 }
